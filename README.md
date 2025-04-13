@@ -1,7 +1,5 @@
 # 🌿 Gil Landscaping Homepage Redesign
 
-> A UX-focused, modern homepage redesign for a local landscaping business — optimized for trust, conversion, and mobile-first responsiveness.
-
 ---
 
 ## 🔍 Project Overview
@@ -55,21 +53,16 @@ This redesign follows a top-down **UX design architecture model**, applying prin
 
 ## 🚀 Live Demo
 
-👉 [View the live site on Netlify](https://your-deployed-url.netlify.app)
-
-> _(Replace this with your actual link)_
+👉 [View the live site on Netlify](https://homepage-redesign.netlify.app/)
 
 ---
 
-## 📸 Screenshots
+## 📸 Loom Video
 
-| Section          | Preview                                   |
-| ---------------- | ----------------------------------------- |
-| Hero             | ![Hero](./screenshots/hero.png)           |
-| Services         | ![Services](./screenshots/services.png)   |
-| Quote Form + Map | ![Quote Form](./screenshots/form-map.png) |
-
-> You can upload screenshots to `/screenshots` folder in your repo or embed Loom videos
+| Section | Preview                                                                                                         |
+| ------- | --------------------------------------------------------------------------------------------------------------- |
+| Before  | ![Before](https://www.loom.com/share/1b51dd865ae548f09b6484f2f8a5d6b7?sid=3a8e11ee-24f5-418a-8cac-c1e0a12878c6) |
+| After   | ![After](https://www.loom.com/share/aa54df151dff4900b0476400e1f81247?sid=36268cbc-d912-4b8c-8f80-57afc470e257)  |
 
 ---
 
